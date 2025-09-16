@@ -102,4 +102,4 @@ Si tienes preguntas o comentarios, no dudes en contactarme:
 
 ---
 
-⭐️ Desarrollado con ❤️ por [Tu Nombre](https://github.com/tu-usuario)
+⭐️ Desarrollado con ❤️ por [Bruno](https://github.com/tu-usuario)
